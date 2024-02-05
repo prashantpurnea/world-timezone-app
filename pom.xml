@@ -36,8 +36,7 @@
 				<environment>Sandbox</environment>
 				<target>Cloudhub-US-East(Ohio)</target>
 				<muleVersion>4.4.0</muleVersion>
-					<username>pkr1234</username>
-			        <password>Light@1234</password>
+				<server>anypoint-exchange-v2</server>
 				<applicationName>world-timezone-demo</applicationName>
 				<replicas>1</replicas>
 				<vCores>0.1</vCores>
