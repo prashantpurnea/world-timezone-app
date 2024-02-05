@@ -36,7 +36,7 @@
 				<environment>Sandbox</environment>
 				<target>Cloudhub-US-East(Ohio)</target>
 				<muleVersion>4.4.0</muleVersion>
-				<server>anypoint-exchange-v3</server>
+				<server>myworld</server>
 				<applicationName>world-timezone-demo</applicationName>
 				<replicas>1</replicas>
 				<vCores>0.1</vCores>
@@ -95,7 +95,7 @@
 	</pluginRepositories>
 	<distributionManagement>
     <repository>
-      <id>anypoint-exchange-v3</id>
+      <id>myworld</id>
       <name>Corporate Repository</name>
       <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/9ca783fc-62a5-49a7-89ee-68f063327384/maven</url>
       <layout>default</layout>
