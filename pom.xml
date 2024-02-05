@@ -4,7 +4,7 @@
 
 	<groupId>9ca783fc-62a5-49a7-89ee-68f063327384</groupId>
 	<artifactId>world-timezone-demo</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
 	<name>world-timezone-demo</name>
@@ -95,7 +95,7 @@
 	</pluginRepositories>
 	<distributionManagement>
     <repository>
-      <id>my-anypoint-credentials</id>
+      <id>anypoint-exchange-v3</id>
       <name>Corporate Repository</name>
       <url>https://maven.anypoint.mulesoft.com/api/v3/organizations/9ca783fc-62a5-49a7-89ee-68f063327384/maven</url>
       <layout>default</layout>
