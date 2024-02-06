@@ -4,7 +4,7 @@
 
 	<groupId>9ca783fc-62a5-49a7-89ee-68f063327384</groupId>
 	<artifactId>world-timezone-demo</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
 	<name>world-timezone-demo</name>
