@@ -36,7 +36,8 @@
 				<environment>Sandbox</environment>
 				<target>Cloudhub-US-East-2</target>
 				<muleVersion>4.6.0</muleVersion>
-				<server>myworld</server>
+				<username>pkr1234</username>
+			    <password>Light@1234</password>
 				<applicationName>world-timezone-demo</applicationName>
 				<replicas>1</replicas>
 				<vCores>0.1</vCores>
