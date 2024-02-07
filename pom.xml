@@ -34,8 +34,8 @@
 				<uri>https://anypoint.mulesoft.com</uri>
 				<provider>MC</provider>
 				<environment>Sandbox</environment>
-				<target>Cloudhub-US East(Ohio))</target>
-				<muleVersion>4.4.0</muleVersion>
+				<target>Cloudhub-US-East-2</target>
+				<muleVersion>4.6.0</muleVersion>
 				<server>myworld</server>
 				<applicationName>world-timezone-demo</applicationName>
 				<replicas>1</replicas>
